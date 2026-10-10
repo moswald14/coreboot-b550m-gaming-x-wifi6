@@ -1,6 +1,13 @@
 coreboot README
 ===============
 
+## Gigabyte B550M GAMING X WIFI6 development fork
+
+This branch investigates the Gigabyte B550M GAMING X WIFI6.
+It does **not** implement a working board port or produce firmware for it.
+See [development status](Documentation/mainboard/gigabyte/b550m-gaming-x-wifi6.md)
+and [read-only tools](util/board_porting/b550m_gaming_x_wifi6/README.md).
+
 coreboot is a Free Software project aimed at replacing the proprietary
 firmware (BIOS/UEFI) found in most computers. coreboot performs the
 required hardware initialization to configure the system, then passes
