@@ -148,6 +148,7 @@ Laptop 13 Ryzen 7040 Series (Azalea) <framework/azalea/azalea.md>
 
 GA-G41M-ES2L <gigabyte/ga-g41m-es2l.md>
 GA-H61M-S2PV <gigabyte/ga-h61m-s2pv.md>
+B550M GAMING X WIFI6 (investigation only) <gigabyte/b550m-gaming-x-wifi6.md>
 ```
 
 ## HP
